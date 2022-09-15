@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852184247901",
+    "project_id": "possystem-969f0",
+    "storage_bucket": "possystem-969f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852184247901:android:2500dd17c2346b059167b4",
+        "android_client_info": {
+          "package_name": "com.example.pos_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852184247901-0be7lr23032ur0vrmrq2fne12rvglajj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGW3nE2nSAqsh-zv8oW9j-NoATlufaIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852184247901-0be7lr23032ur0vrmrq2fne12rvglajj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
